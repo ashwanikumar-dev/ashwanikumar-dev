@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Ashwani Kumar
 
-**B.Tech IT Student | Full-Stack Developer | DSA Enthusiast | Building Scalable Web Applications**
+**B.Tech IT Student | Full-Stack Developer | Java & DSA**
 
 📧 Email Me 👉 **[ashkr2789@gmail.com](mailto:ashkr2789@gmail.com)** for collaborations, projects, or tech discussions.
 
